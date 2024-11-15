@@ -14,3 +14,6 @@ This repo contains starter apps, samples, and other resources that you may need 
 Every resource should be contained in its own directory, with a `start` and `finished` folder. You should open up the `start` folder and follow along with the corresponding tutorial.
 
 The `finished` folder is there if you get really stuck and need to compare your sample to a working copy. We recommend you don't just copy code from the `finished` folder without going through the tutorial -- you won't learn anything, and we will silently judge you for it. :eyes:
+
+## More Info 
+To visit the tutorial, click [Plaid Transactions Full Tutorial -- Plaid Academy](https://www.youtube.com/watch?v=Pin0-ceDKcI)
